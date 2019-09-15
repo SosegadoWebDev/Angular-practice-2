@@ -1,0 +1,16 @@
+.container .row div {
+    width: 100%;
+}
+.form-control {
+    display: inline-block !important;
+}
+input {
+    width: 200px;
+    margin: 10px;
+}
+button {
+    display: block;
+}
+.user-name {
+    display: inline-block;
+}
